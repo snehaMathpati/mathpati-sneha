@@ -1,0 +1,1122 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+header{
+     height: 65px;
+    width: 100%;
+   
+    display: flex;
+    position: fixed;
+    align-items: center;
+    top: 0px;
+    background-color: white;
+    
+}
+
+.w3school img{
+    height: 40px;
+    width: 40px;
+    margin-left: 15px;
+    margin-right: 10px;
+}
+.options select{
+    border: none;
+    font-size: 18px;
+    margin-left: 19px;
+    height: 30px;
+    width:87px;
+    background-color: white;
+}
+header input{
+    width: 15%;
+    border-radius: 19px;
+    height: 32px;
+    padding: 20px;
+    border: 1px soliD;
+    margin-left: 50px;
+}
+header .rajput{
+    position: relative;
+    right: 23px;
+}
+header .meet{
+    margin-left: 10px;
+}
+header .spaces{
+    margin-left: 500px;
+}
+.spaces button{
+    margin-left: 20px;
+    width: 120px;
+    border-radius: 18px;
+    height: 30px;
+    font-size: 16px;
+    background-color: white;
+    border: none;
+}
+.spaces i{
+    margin-right: 10px;
+}
+.signup .button1{
+    border: none;
+    border-radius: 20px;
+    background-color: #04aa6d;
+    color: white;
+    width: 90px;
+    height: 40px;
+    position: relative;
+    left: 35px;
+}
+.signup .button2{
+    border: none;
+    border-radius: 20px;
+    width: 90px;
+    height: 40px;
+}
+.parent1{
+    position: fixed;
+    background-color: #282a35;
+    color: #f1f1f1;
+    padding: 0px;
+    letter-spacing: 2.1px;
+    font-family: 'source sans pro topnav', sans-serif;
+    width: 100%;
+    height: 50px;
+    top: 60px;
+    padding-top: 5px;
+}
+.parent1 a{
+    text-decoration: none;
+    color: white;
+    margin-top: 15px;
+    margin-left: 21px;
+}
+.parent2{
+    background-image: url(https://www.w3schools.com/images/background_in_space.gif);
+    margin-top: 90px;
+
+  display: flex;
+  padding-left: 34%;
+  padding-top: 9%;
+  padding-bottom: 9%;
+}
+.parent2 p{
+    font-size: 80px;
+    color: white;
+    font-weight: bold;
+    margin-left: 20px;
+}
+.parent2 main{
+
+    margin-top: 26px;
+    font-size: 31px;
+    color: #FFF4A3;
+}
+.parent2 input{
+    width: 100%;
+    height: 18%;
+    padding-left: 20px;
+    border-radius: 28px;
+    border: none;
+  
+    color: grey;
+    font-weight: bold;
+    font-size: 19px;
+}
+.parent2 a{
+    color: white;
+    font-size: 20px;
+}
+.meet img{
+    margin-top: 160px;
+    width: 120%;
+    margin-left: 200%;
+}
+.parent2paragraph button{
+    position: relative;
+   
+    bottom: 65px;
+    left: 84%;
+   
+    background-color: #04aa6d;
+    width: 95px;
+    border-radius: 25px;
+    height: 65px;
+    border: none;
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;   
+}  
+.parent2 a{
+    font-weight: bold;
+    font-size: 30px;
+    margin-left: 80px
+   
+}
+.parent4{
+    background-color: #D9EEE1;
+    padding-top: 9%;
+    padding-bottom: 9%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.parent4 .mathpati1 h1{
+    font-size: 116px;
+    font-weight: bold;
+    margin-left: 17%;
+}
+.parent4 .mathpati2 h1{
+    font-size: 37px;
+    margin-bottom: 20px;
+}
+.parent5 .mathpati3 h1{
+    font-size: 116px;
+    font-weight: bold;
+    margin-left: 28%;
+}
+.parent5 .mathpati4 h1{
+    font-size: 37px;
+    margin-bottom: 20px;
+}
+.parent6 .mathpati5 h1{
+    font-size: 100px;
+    font-weight: bold;
+    margin-left: 3%;
+    color: white;
+}
+.parent6 .mathpati6 h1{
+    font-size: 37px;
+    margin-bottom: 20px;
+}
+
+
+
+
+.mathpati2{
+    height: 600px;
+    width: 670px;
+    padding: 1%;
+    box-shadow: h-offset v-offset blur spread color inset;
+    padding-top: 2%;
+    margin-left: 120px;
+    background-color: #E7E9Eb;
+    box-shadow:  0 2px 5px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12);
+}
+
+.parent4 h2{
+    font-size: 25px;
+}
+.parent5 h2{
+    font-size: 30px;
+}
+.parent6 h2{
+    font-size: 30px;
+    color: white;
+    /* margin-right: 10%; */
+}
+
+.parent4 button{
+    margin-left: 23%;
+    margin-bottom: 30px;
+    width: 270px;
+    height: 47px;
+    border-radius: 20px;
+    border: none;
+    font-size: 20px;
+}
+.meet1{
+    margin-top: 20px;
+    background-color: #04aa6d;
+    color: white;
+}
+.meet2{
+    background-color: #FFF4A3;
+    color: black;
+}
+.meet3{
+    background-color: black;
+    color: white;
+}
+.meet4{
+    background-color: pink;
+    color: black;
+}
+.code{
+    font-size: 26px;
+    font-family: Consolas, menlo, "courier new", monospace;
+    background-color: white;
+    padding: 14px;
+    border-left: 8px solid #04aa6d;
+    padding-bottom: 26px;
+  
+}
+.mathpati2 button{
+    border-radius: 20px;
+    color: white;
+    background-color: #04aa6d;
+    /* padding: 10px 25px; */
+    margin-top: 16px;
+    margin-left: 0;
+    width: 200px;
+}
+.parent5{
+    background-color:#FFF4A3;
+    padding-top: 9%;
+    padding-bottom: 9%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.parent5.mathpati3 h1{
+    font-size: 116px;
+    font-weight: bold;
+    margin-left: 17%;
+}
+.parent5 button{
+    margin-left: 26%;
+    margin-bottom: 30px;
+    width: 270px;
+    height: 47px;
+    border-radius: 20px;
+    border: none;
+    font-size: 20px;
+}
+.meet5{
+    margin-top: 20px;
+    background-color: #04aa6d;
+    color: white;
+}
+.meet6{
+    background-color: black;
+    color: white;
+}
+.meet7{
+    background-color: pink;
+    color: black;
+}
+.mathpati4{
+    height: 580px;
+    width: 670px;
+    padding: 1%;
+    box-shadow: h-offset v-offset blur spread color inset;
+    padding-top: 2%;
+    margin-left: 120px;
+    background-color: #E7E9Eb;
+    box-shadow:  0 2px 5px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12);
+}
+.mathpati4 button{
+    border-radius: 20px;
+    color: white;
+    background-color: #04aa6d;
+    /* padding: 10px 25px; */
+    margin-top: 16px;
+    margin-left: 0;
+    width: 200px;
+}
+.parent6{
+    background-color:#282A35;
+    padding-top: 9%;
+    padding-bottom: 9%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.parent6.mathpati5 h1{
+    font-size: 116px;
+    font-weight: bold;
+    margin-left: 17%;
+    color: white;
+}
+.parent6 button{
+    margin-left: 23%;
+    margin-bottom: 30px;
+    width: 270px;
+    height: 47px;
+    border-radius: 20px;
+    border: none;
+    font-size: 20px;
+}
+.meet8{
+    margin-top: 20px;
+    background-color: #04aa6d;
+    color: white;
+}
+.meet9{
+    background-color: black;
+    color: white;
+}
+.meet10{
+    background-color: pink;
+    color: black;
+}
+.mathpati6{
+    height: 550px;
+    width: 670px;
+    padding: 1%;
+    box-shadow: h-offset v-offset blur spread color inset;
+    padding-top: 2%;
+    margin-left: 120px;
+    background-color: #E7E9Eb;
+    box-shadow:  0 2px 5px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12);
+    border-radius: 2%;
+}
+.mathpati6 button{
+    border-radius: 20px;
+    color: white;
+    background-color: #04aa6d;
+    /* padding: 10px 25px; */
+    width: 200px;
+    margin-top: 16px;
+    margin-left: 0;
+}
+.parent7{
+    background-color:#F3ECEA;
+    padding-top: 9%;
+    padding-bottom: 9%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.meet11{
+    margin-top: 20px;
+    background-color: #04aa6d;
+    color: white;
+}
+.meet12{
+    background-color: black;
+    color: white;
+}
+.meet13{
+    background-color: pink;
+    color: black;
+}
+.parent7 button{
+    margin-left: 23%;
+    margin-bottom: 30px;
+    width: 270px;
+    height: 47px;
+    border-radius: 20px;
+    border: none;
+    font-size: 20px;
+}
+.mathpati7 h1{
+    font-size: 60px;
+    margin-left: 29%;
+}
+.parent7 h2{
+    font-size: 33px;
+    margin-left: 60px;
+}
+.parent7 .mathpati7 h1{
+    font-size: 116px;
+    font-weight: bold;
+    margin-left: 17%;
+}
+.parent7 .mathpati8 h1{
+    font-size: 37px;
+    margin-bottom: 20px;
+}
+.mathpati8{
+    height: 600px;
+    width: 670px;
+    padding: 1%;
+    box-shadow: h-offset v-offset blur spread color inset;
+    padding-top: 2%;
+    margin-left: 120px;
+    background-color: #E7E9Eb;
+    box-shadow:  0 2px 5px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12);
+    border-radius: 2%;
+}
+.mathpati8 button{
+    border-radius: 20px;
+    color: white;
+    background-color: #04aa6d;
+    /* padding: 10; */
+    margin-top: 20px;
+    margin-left: 0;
+    width: 200px;
+}
+.parent8{
+    background-color:#96D4D4;
+    padding-top: 9%;
+    padding-bottom: 9%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.meet14{
+    margin-top: 20px;
+    background-color: #04aa6d;
+    color: white;
+}
+.meet15{
+    background-color: black;
+    color: white;
+}
+.meet16{
+    background-color: pink;
+    color: black;
+}
+.parent8 button{
+    margin-left: 23%;
+    margin-bottom: 30px;
+    width: 270px;
+    height: 47px;
+    border-radius: 20px;
+    border: none;
+    font-size: 20px;
+}
+.mathpati8 h1{
+    font-size: 60px;
+    /* margin-left: %; */
+}
+.parent8 h2{
+    font-size: 33px;
+    margin-left: 60px;
+}
+.mathpati10 h1{
+    font-size: 37px;
+    margin-bottom: 28px;
+
+}
+.mathpati9 h1{
+    margin-left: 34%;
+    font-size: 80px;
+}
+.mathpati10{
+    height: 600px;
+    width: 670px;
+    padding: 1%;
+
+    box-shadow: h-offset v-offset blur spread color inset;
+    padding-top: 2%;
+    margin-left: 120px;
+    background-color: #E7E9Eb;
+    box-shadow:  0 2px 5px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12);
+    border-radius: 2%;
+}
+.mathpati10 button{
+    border-radius: 20px;
+    color: white;
+    background-color: #04aa6d;
+    padding: 10;
+    margin-top: 20px;
+    margin-left: 0;
+    width: 200px;
+    
+}
+.parent9{
+    background-color:#282A35;
+    padding: 6% 11%;
+}
+
+.parent9line1{
+    display: flex;
+    margin-bottom: 60px;
+}
+.parent9box1{
+    background-color: pink;
+    padding: 6% 13%;
+    text-align: center;
+}
+.parent9box1 h1{
+    font-size: 50px;
+}
+.parent9box1 p{
+    font-size: 20px;
+    margin-top: 15px;
+    margin-bottom: 25px;
+}
+.parent9box1 button{
+    border: none;
+    padding: 3% 13%;
+    border-radius: 20px;
+    background-color: #282A35;
+    color: white;
+    font-size: 20px;
+}
+
+.parent9box2{
+    background-color: rgb(249, 249, 163);
+    padding: 6% 12%;
+    text-align: center;
+    margin-left: 70px;
+}
+.parent9box2 h1{
+    font-size: 50px;
+}
+.parent9box2 p{
+    font-size: 20px;
+    margin-top: 15px;
+    margin-bottom: 25px;
+}
+.parent9box2 button{
+    border: none;
+    padding: 3% 13%;
+    border-radius: 20px;
+    background-color: #282A35;
+    color: white;
+    font-size: 20px;
+}
+
+
+
+
+
+
+
+.parent9line2{
+    display: flex;
+    margin-bottom: 60px;
+}
+.parent9box3{
+    background-color: #F3ECEA;
+    padding: 6% 16%;
+    text-align: center;
+}
+.parent9box3 h1{
+    font-size: 50px;
+}
+.parent9box3 p{
+    font-size: 20px;
+    margin-top: 15px;
+    margin-bottom: 25px;
+}
+.parent9box3 button{
+    border: none;
+    padding: 6% 17%;
+    border-radius: 30px;
+    background-color: #282A35;
+    color: white;
+    font-size: 20px;
+}
+
+.parent9box4{
+    background-color: #D9EEE1;
+    padding: 6% 16%;
+    text-align: center;
+    margin-left: 70px;
+}
+.parent9box4 h1{
+    font-size: 50px;
+}
+.parent9box4 p{
+    font-size: 20px;
+    margin-top: 15px;
+    margin-bottom: 25px;
+}
+.parent9box4 button{
+    border: none;
+    padding: 6% 18%;
+    border-radius: 30px;
+    background-color: #282A35;
+    color: white;
+    font-size: 20px;
+}
+
+
+
+
+
+.parent9line3{
+    display: flex;
+    margin-bottom: 60px;
+}
+.parent9box5{
+    background-color: #F3ECEA;
+    padding: 6% 5%;
+    text-align: center;
+}
+.parent9box5 h1{
+    font-size: 50px;
+}
+.parent9box5 p{
+    font-size: 20px;
+    margin-top: 15px;
+    margin-bottom: 25px;
+}
+.parent9box5 button{
+    border: none;
+    padding: 3% 13%;
+    border-radius: 30px;
+    background-color: #04aa6d;
+    color: white;
+    font-size: 20px;
+}
+
+.parent9box6{
+    background-color: #D9EEE1;
+    padding: 6% 10%;
+    text-align: center;
+    margin-left: 70px;
+}
+.parent9box6 h1{
+    font-size: 50px;
+}
+.parent9box6 p{
+    font-size: 19px;
+    margin-top: 15px;
+    margin-bottom: 25px;
+}
+.parent9box6 button{
+    border: none;
+    padding: 3% 13%;
+    border-radius: 30px;
+    background-color: #282A35;
+    color: white;
+    font-size: 20px;
+}
+
+.parent9line4{
+    display: flex;
+    margin-top: 10%;
+}
+.parent9box7{
+    background-color: #D9EEE1;
+    padding: 6% 19%;
+    text-align: center;
+}
+.parent9box8{
+    background-color: #FFF4A3;
+    padding: 6% 22%;
+    text-align: center;
+    margin-left: 70px;
+}
+.parent9box8 h1{
+    font-size: 70px;
+}
+.parent9box7 h1{
+    font-size: 70px;
+}
+.parent9line5{
+    display: flex;
+    margin-top: 5%;
+}
+.parent9line6{
+    display: flex;
+    margin-top: 5%;
+}
+.parent9line7{
+    display: flex;
+    margin-top: 5%;
+}
+.parent9smallbox1{
+    background-color: #FFF4A3;
+    padding: 6% 7%;
+    text-align: center;
+    margin-left: 5px;
+    border-radius: 10px;
+}
+.parent9smallbox2{
+    background-color:pink;
+    padding: 6% 6%;
+    text-align: center;
+    margin-left: 70px;
+    border-radius: 10px;
+}
+.parent9smallbox3{
+    background-color:#D9EEE1;
+    padding: 6% 7%;
+    text-align: center;
+    margin-left: 100px;
+    border-radius: 10px;
+}
+.parent9smallbox4{
+    background-color:#04aa6d;
+    padding: 6% 6%;
+    text-align: center;
+    margin-left: 100px;
+    border-radius: 10px;
+}
+.box1{
+    
+        background-color: pink;
+        padding: 7% 20%;
+        text-align: center;
+    }
+.box2{
+    background-color: #04aa6d;
+    padding: 8% 6%;
+    text-align: center;
+    margin-left: 100px;
+}
+
+.box3{
+    
+        background-color: #04aa6d;
+        padding: 5% 18%;
+        text-align: center;
+        
+
+}
+.box4{
+    
+    background-color: pink;
+    padding: 4% 19%;
+    text-align: center;
+    margin-left: 106px;
+}
+.parent9line8{
+    align-items: center;
+    margin-top: 80px;
+
+}
+.parent9line8 h1{
+    color: white;
+    margin-bottom: 30px;
+    font-size: 80px;
+    margin-left: 500px;
+    
+}
+.parent9line8 p{
+    color: white;
+    font-size: 30px;
+    margin-left: 200px;
+    
+}
+.parent9line10{
+    background-color: #D9EEE1;
+    width: 64%;
+    padding: 8px 8px;
+    display: flex;
+    margin-left: 15%;
+    margin-top: 80px;
+}
+.parent9line10 i{
+    margin-top: 7px;
+    margin-left: 0.6%;
+}
+.parent9line10 p{
+    font-size: 26px;
+    background-color: white;
+    padding-right: 20%;
+    margin-left: 150px;
+}
+.parent9line11 button{
+    padding: 16px 24px;
+    margin-left: 10px;
+    border: none;
+    font-size: 20px;
+}
+.parent9line11{
+    background-color: #D9EEE1;
+    width: 64%;
+    margin-left: 15%;
+}
+.parent9line12{
+    margin-top: 30px;
+    
+}
+.parent9line12 button{
+    margin-left: 30px;
+    font-weight: bold;
+    height: 50px;
+    width: 310px;
+    border-radius: 10px;
+    margin-left: 220px;
+    font-size: 20px;
+}
+.parent9line13{
+    text-align: center;
+    padding-top: 90px;
+
+}
+.parent9line13 p{
+    color: white;
+    font-size: 27px;
+    margin: 30px 0;
+}
+
+.parent9line13 h1{
+    color: white;
+    font-size: 60px;
+}
+
+.parent9line13 span{
+    color: white;
+    font-size: 24px;
+}
+.parent9line13 img{
+    margin-top: 70px;
+}
+
+.parent9line14{
+    text-align: center;
+    padding-top: 10%;
+}
+.parent9line14 button{
+    padding: 14px 47px;
+    border: none;
+    border-radius: 30px;
+    color: white;
+    margin-top: 20px;
+    font-size: 24px;
+    background-color: #04aa6d;
+}
+.parent10{
+    background-color:#D9EEE1 ;
+    text-align: center;
+    align-items: center;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    
+}
+.parent10 h1{
+    padding-top: 70px;
+    padding-bottom: 30px;
+    font-size: 55px;
+}
+.parent10 p{
+    font-size: 30px;
+    padding-bottom: 20px;
+}
+
+.parent10line1 button{
+    padding: 14px 47px;
+    border: none;
+    border-radius: 30px;
+    color: white;
+    margin-top: 20px;
+    font-size: 24px;
+    background-color: #04aa6d;
+}
+.parent11{
+    background-color: #282A35;
+    text-align: center;
+    align-items: center;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+.parent11 h1{
+    color: white;
+    padding-bottom: 30px;
+    font-size: 50px;
+}
+.parent11 h3{
+    color: pink;
+    font-size: 28px;
+    padding-bottom: 17px;
+}
+.parent11box1{
+    display: flex;
+    margin-left: 750px;
+    color: white;
+}
+.parent11box1 p{
+    margin-left: 20px;
+    font-size: 24px;
+}
+.parent11box2{
+    display: flex;
+    margin-left: 750px;
+    color: white;
+}
+.parent11box2 p{
+    margin-left: 20px;
+    font-size: 24px;
+}
+.parent11box3{
+    display: flex;
+    margin-left: 750px;
+    color: white;
+}
+.parent11box3 p{
+    margin-left: 20px;
+    font-size: 24px;
+}
+.parent11line1 button{
+    padding: 14px 47px;
+    border: none;
+    border-radius: 30px;
+    color: white;
+    margin-top: 20px;
+    font-size: 24px;
+    background-color: #04aa6d;
+}
+.parent12{
+    background-color: #F3ECEA;
+    text-align: center;
+    align-items: center;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+.parent12 h1{
+    font-size: 60px;
+    padding-bottom: 25px;
+}
+.parent12.h3{
+    font-size: 30px;
+   
+}
+.parent13{
+    background-color: #96D4D4;
+    text-align: center;
+    align-items: center;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+.parent13 h1{
+    font-size: 60px;
+    padding-bottom: 20px;
+}
+.parent13 h3{
+    font-size: 30px;
+}
+.parent13 button{
+    padding: 14px 47px;
+    border: none;
+    border-radius: 30px;
+    color: white;
+    margin-top: 20px;
+    font-size: 24px;
+    background-color: black
+
+}
+.parent14{
+    background-color: #282A35;
+    text-align: center;
+    align-items: center;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+.parent14 h1{
+    font-size: 60px;
+    padding-bottom: 20px;
+    color: white;
+}
+.parent14 h4{
+    font-size: 25px;
+    color: white;
+}
+.parent14line1{
+    display: flex;
+    
+}
+.parent14box1{
+    background-color: #04aa6d;
+    padding: 3% 12%;
+    text-align: center;
+    margin-left: 295px;
+}
+.parent14box2{
+    background-color: #FFF4A3;
+    padding: 3% 13%;
+    text-align: center;
+    margin-left: 100px;
+}
+.parent14box1 p{
+    font-size: 30px;
+}
+.parent14box2 p{
+    font-size: 30px;
+}
+.parent15{
+    background-color: #F3ECEA;
+    text-align: center;
+    align-items: center;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+.parent15 h1{
+    font-size: 60px;
+    padding-bottom: 20px;
+    /* color: white; */
+}
+.parent15 h4{
+    font-size: 25px;
+    /* color: white; */
+}
+.parent15 button{
+    padding: 14px 400px;
+    border: none;
+    border-radius: 30px;
+    color: white;
+    margin-top: 20px;
+    font-size: 24px;
+    background-color: black
+}
+.parent16{
+    background-color: #282A35;
+    /* text-align: center;
+    align-items: center; */
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+.parent16 h1{
+    color: pink;
+    font-size: 70px;
+    padding-bottom: 100px;
+    margin-left: 250px;
+}
+.parent16 h4{
+    color: pink;
+    margin-left: 250px;
+    font-size: 40px;
+}
+.parent16 button{
+    padding: 14px 47px;
+    border: none;
+    border-radius: 30px;
+    color: white;
+    margin-top: 20px;
+    font-size: 24px;
+    background-color: #04aa6d;
+    margin-left: 250px;
+}
+.parent17{
+    background-color: #D9EEE1;
+    text-align: center;
+    align-items: center;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+.parent17 h1{
+    font-size: 60px;
+    padding-bottom: 20px;
+    color: black;
+}
+.parent17 h3{
+    font-size: 20px;
+    color: black;
+    padding-bottom: 20px;
+}
+
+.parent17 h5{
+    font-size: 15px;
+    color: black;
+}
+.paren17line1{
+    display: flex;
+}
+
+.parent17line10 p{
+    font-size: 26px;
+    background-color: white;
+    padding-right: 20%;
+    margin-left: 150px;
+}
+.signle{
+    margin-left: 1.5%;
+}
+.minaxi{
+    margin-left: 14%;
+    background-color: white;
+    padding-right: 30%;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+
+.parent17total{
+    background-color:#f1f1f1;
+    padding: 1%;
+    width: 56%;
+    margin-left: 450px;
+    height: 200px;
+}
+
+
+
